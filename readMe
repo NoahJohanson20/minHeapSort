@@ -1,0 +1,2 @@
+The program takes in an array of numbers and runs it through a heapSort method that then  calls a heapify method to handle the sorting of the values in the array.
+Finally there is a print array method just to print the array to the console to show the original array and the sorted array.
